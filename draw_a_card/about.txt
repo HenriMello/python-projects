@@ -1,0 +1,1 @@
+In the Draw a Card project, we will create a virtual deck of cards. Shuffle them and then display them one by one using ASCII art.
